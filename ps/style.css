@@ -58,3 +58,14 @@ body {
 	font-size: 18px;
 	color: white;
 }
+<style type="text/css">
+      header {
+        color: white;
+        background-image: url("assets/img/img1.png");
+        background-color: rgba(0, 0, 0, 0.0);
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+        background-blend-mode: darken;
+      }
+</style>
